@@ -1,23 +1,23 @@
-#Operating Systems laboratory Exercises 
+#Operating Systems laboratory Exercises<br> 
 
-This repository contains the laboratory exercises for the Operating Systems course. Each exercise includes:
+This repository contains the laboratory exercises for the Operating Systems course. Each exercise includes:<br>
 
--C source code
--Explanation document
--Compiled executable(binary) 
+-C source code<br>
+-Explanation document<br>
+-Compiled executable(binary)<br> 
 
-##Folder Structure
-example-01/
--main.c
--explanation.md
--app
+##Folder Structure<br>
+example-01/<br>
+-main.c<br>
+-explanation.md<br>
+-app<br>
 
-example-02/
--main.c
--explanation.md
--app
+example-02/<br>
+-main.c<br>
+-explanation.md<br>
+-app<br>
 
-example-03/
--main.c
--explanation.md
--app
+example-03/<br>
+-main.c<br>
+-explanation.md<br>
+-app<br>
