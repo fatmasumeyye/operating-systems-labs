@@ -4,7 +4,7 @@
 
 The purpose of this application is to use POSIX threads (pthreads) to create two separate threads (T1 and T2) and assign them different tasks to demonstrate basic multithreading. Thread T1 creates a file, while thread T2 writes data into the same file. This way, thread creation, thread synchronization, and file operations are applied together.<br>
 
-## System Calls / Functions Usedbr<br>
+## System Calls / Functions Used<br>
 System calls: pthread_create(), pthread_join()<br>
 Functions: fopen(), fprintf(), fclose(), perror()<br>
 
