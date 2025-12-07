@@ -1,6 +1,6 @@
 # Example10 – Create Threads<br>
 
-## Purposebr<>
+## Purpose<br>
 
 The purpose of this application is to use POSIX threads (pthreads) to create two separate threads (T1 and T2) and assign them different tasks to demonstrate basic multithreading. Thread T1 creates a file, while thread T2 writes data into the same file. This way, thread creation, thread synchronization, and file operations are applied together.<br>
 
